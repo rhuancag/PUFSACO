@@ -42,14 +42,12 @@ https://drive.google.com/drive/folders/1KKNpd7iZAJDsyIjwRrESBwn2vDGs7jd-?usp=sha
 
 # WEKA - classification
 
------------------------------------------------------------------------------------------
-SOFTWARE 	| https://www.cs.waikato.ac.nz/ml/weka/index.html
------------------------------------------------------------------------------------------
-VERSION  	| 3.9.3
------------------------------------------------------------------------------------------
-ALGORITHM 	| SUPPORT VECTOR MACHINE
------------------------------------------------------------------------------------------
-WEKA - SMO	| https://weka.sourceforge.io/doc.dev/weka/classifiers/functions/SMO.html
------------------------------------------------------------------------------------------
-KERNEL		| Polykernel
 
+| nombre 	|     descripción                       |
+|---------------|----------------------|
+| SOFTWARE 	| https://www.cs.waikato.ac.nz/ml/weka/index.html                           |
+| VERSION  	| 3.9.3                                                                     |
+| ALGORITHM 	| SUPPORT VECTOR MACHINE                                                |
+| WEKA 	|  SMO algorithm|
+| LINK 	|  https://weka.sourceforge.io/doc.dev/weka/classifiers/functions/SMO.html |
+| KERNEL		| Polykernel                                                            |
