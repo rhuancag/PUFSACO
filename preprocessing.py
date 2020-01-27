@@ -55,9 +55,9 @@ def preProcesamiento():
 	lista_docs = []
 	train_docs = []
 	test_docs = []
-	file = open('output_pruebas/output_I.csv','w')
+	file = open('pre_eric_ds.csv','w')
 
-	with open('result_eric_ds_I_f.csv', 'r', encoding = "ISO-8859-1") as csvfile:
+	with open('eric_ds.csv', 'r', encoding = "ISO-8859-1") as csvfile:
 		l_docs = list(csv.reader(csvfile,delimiter = ","))
 		
 	flat_list = []
